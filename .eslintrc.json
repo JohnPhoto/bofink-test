@@ -1,0 +1,14 @@
+{
+  "parserOptions": {
+    "ecmaVersion": 10
+  },
+  "parser": "babel-eslint",
+  "plugins": ["prettier"],
+  "extends": ["airbnb", "prettier"],
+  "rules": {
+    "react/jsx-filename-extension": "off",
+    "react/prop-types": "warn",
+    "react/require-default-props": "warn",
+    "react/jsx-props-no-spreading": "off"
+  }
+}
