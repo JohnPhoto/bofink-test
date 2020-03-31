@@ -14,7 +14,7 @@
   "author": "John Lindahl <john@bofink.com>",
   "license": "ISC",
   "dependencies": {
-    "next": "^9.0.5",
+    "next": "^9.3.2",
     "prettier": "^1.18.2",
     "prop-types": "^15.7.2",
     "react": "^16.9.0",
